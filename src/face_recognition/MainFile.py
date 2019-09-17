@@ -1,6 +1,6 @@
 
 from tensorflow.python.keras.callbacks import TensorBoard
-from face_recognition.SiameseModel import Recognizer
+from face_recognition import Recognizer
 from PIL import Image
 import numpy as np
 import time
